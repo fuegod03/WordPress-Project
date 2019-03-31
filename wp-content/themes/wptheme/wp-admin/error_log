@@ -1,0 +1,21 @@
+[13-Mar-2019 04:20:12 UTC] wizard_viewed
+[13-Mar-2019 04:20:55 UTC] wizard_started
+[13-Mar-2019 04:21:14 UTC] wizard_step_completed
+[13-Mar-2019 04:21:14 UTC] PHP Warning:  Missing argument 2 for mm_jpo_step_complete(), called in /home1/joseesp1/public_html/wp-includes/class-wp-hook.php on line 288 and defined in /home1/joseesp1/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/inc/user-experience-tracking.php on line 702
+[13-Mar-2019 04:21:15 UTC] wizard_step_viewed
+[13-Mar-2019 04:21:21 UTC] wizard_step_viewed
+[13-Mar-2019 04:21:21 UTC] wizard_step_completed
+[13-Mar-2019 04:21:21 UTC] PHP Warning:  Missing argument 2 for mm_jpo_step_complete(), called in /home1/joseesp1/public_html/wp-includes/class-wp-hook.php on line 288 and defined in /home1/joseesp1/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/inc/user-experience-tracking.php on line 702
+[13-Mar-2019 04:21:26 UTC] wizard_step_completed
+[13-Mar-2019 04:21:26 UTC] PHP Warning:  Missing argument 2 for mm_jpo_step_complete(), called in /home1/joseesp1/public_html/wp-includes/class-wp-hook.php on line 288 and defined in /home1/joseesp1/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/inc/user-experience-tracking.php on line 702
+[13-Mar-2019 04:21:26 UTC] wizard_step_viewed
+[13-Mar-2019 04:21:32 UTC] wizard_step_completed
+[13-Mar-2019 04:21:32 UTC] PHP Warning:  Missing argument 2 for mm_jpo_step_complete(), called in /home1/joseesp1/public_html/wp-includes/class-wp-hook.php on line 288 and defined in /home1/joseesp1/public_html/wp-content/plugins/mojo-marketplace-wp-plugin/inc/user-experience-tracking.php on line 702
+[13-Mar-2019 04:21:32 UTC] wizard_step_viewed
+[13-Mar-2019 04:21:41 UTC] wizard_step_skipped
+[13-Mar-2019 04:21:41 UTC] wizard_step_viewed
+[13-Mar-2019 04:21:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/joseesp1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[13-Mar-2019 05:14:36 UTC] wizard_step_skipped
+[13-Mar-2019 05:14:38 UTC] wizard_hidden
+[13-Mar-2019 05:41:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/joseesp1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[20-Mar-2019 23:35:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/joseesp1/public_html/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
